@@ -85,8 +85,11 @@ h2{
 #testimonials{
     background-color:#ef8172;
     text-align: center;
-    padding: 7% 15%;
+    
     color:#fff ;   
+}
+.carousel-item{
+padding: 7% 15%;
 }
 
 #press{
@@ -99,4 +102,18 @@ h2{
     margin: 2% 2%;
     /* margin: 15% 30%; */
     /* padding: 5% 30%; */
+}
+#pricing{
+    padding: 100px;
+    text-align: center;
+}
+.pricing-h2{
+    font-family: 'Montserrat-Black';
+    /* line-height:; */
+    font-size: 3.5em;
+    color: #060505;
+    font-weight: bold;
+}
+.pricing-column{
+    padding:4% 3%;
 }
